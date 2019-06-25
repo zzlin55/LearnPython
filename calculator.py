@@ -3,8 +3,15 @@
 # Project Name: Calculator
 
 # Version 1: a calculator that take the input from user and print result of calculation. Integers only.
-# Note: use regular expression to check validality.
+# Note: use regular expression to check validity.
 # The calculation includes + - * /. 
+
+# To be add:
+# 1. calculation with more numbers
+# 2. Specify the calculation accuracy
+# 3. add more functions so it like stardard calculator
+# 4. UI
+
 import re
 
 # Convert string to number, and identify sign.
